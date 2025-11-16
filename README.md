@@ -1,5 +1,5 @@
 
-# Vespa sample application - text search tutorial
+# Vespa sample application
 
 This sample application contains the code for the text search tutorial.
 Please refer to the [text search tutorial](https://docs.vespa.ai/en/tutorials/text-search.html)
